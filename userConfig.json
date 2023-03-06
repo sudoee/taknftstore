@@ -1,11 +1,11 @@
 {
   "collections": [
-    "Please enter your Collection ID"
+    "KAGigcj1Wzq8UpFudZRXqBuj6Zx1D2LRpHLBjiUQKZU"
   ],
-  "xApiKey": "Please enter your API Key",
-  "serviceFee": "Please enter your service fee (Recommended 4.25)",
-  "currencyOption": "Please enter your payment token",
-  "name": "Please enter your storefront name",
-  "logo": "Please enter your logo image URL",
-  "network": "Please enter your selected network "
+  "xApiKey": "mw_qaDwO1OZelt2GuMa34gix69IOhO9YMSgi7v",
+  "serviceFee": 4.25,
+  "currencyOption": "SOL",
+  "name": "taknft",
+  "logo": "",
+  "network": "Devnet "
 }
